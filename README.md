@@ -1,4 +1,4 @@
-# simple_intrest_calculator
+## Simple Interest Calculator
 
 A new Flutter project.
 
